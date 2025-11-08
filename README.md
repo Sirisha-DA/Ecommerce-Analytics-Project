@@ -60,8 +60,11 @@ To analyze customer behavior, sales trends, product performance, and business KP
 🛠 Tools & Skills Used
 
 Power BI
+
 Power Query
+
 DAX
+
 Excel
 
 Data Cleaning
