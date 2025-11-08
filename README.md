@@ -18,13 +18,21 @@ To analyze customer behavior, sales trends, product performance, and business KP
 🔍 Insights Covered
 
 -> Total Customers
+
 -> Total Orders
+
 -> Total Sales
+
 -> Avg Order Value
+
 -> Top Products by Revenue
+
 -> Sales by Product Category
+
 -> Sales by State (Map)
+
 -> Yearly & Monthly Sales Trend
+
 -> Payment Mode Split
 
 ✅ Dashboard 2: Customer & Revenue Insights Dashboard
@@ -32,10 +40,15 @@ To analyze customer behavior, sales trends, product performance, and business KP
 🔍 Insights Covered
 
 -> New vs Returning Customers
+
 -> Customer Satisfaction (Review Scores)
+
 -> Review Score Distribution
+
 -> Top 10 High-Value Customers
+
 -> Sales by City
+
 -> Total Sales by Customer State
 
 ✅ Dashboard 3: Product Performance & Category Analysis
@@ -43,10 +56,15 @@ To analyze customer behavior, sales trends, product performance, and business KP
 🔍 Insights Covered
 
 -> Total Revenue by Product Category
+
 -> Top 10 Best-Selling Products
+
 -> Average Product Price by Category
+
 -> Category Contribution to Total Revenue (Pie Chart)
+
 -> Monthly Revenue Trend
+
 -> Revenue by Category (Treemap)
 
 🧠 Key Insights
